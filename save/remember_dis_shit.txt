@@ -1,0 +1,47 @@
+to run python in terminal do
+python3 
+----------------------------------------------------------------------------------------------------------
+commands ive used before
+------------------------------------------------------------
+docker build -t jesseserver . 
+docker run -i -t jesseserver /bin/bash OPEN TILL CLOSED with command exit
+------------------------------------------------------------------
+docker run -i -d jesseserver /bin/bash TO KEEP CONTAINER OPEN FOREVER
+docker exec -it clever_chatelet7 /bin/bash
+-----------------------------------------------------------------
+xit
+docker run -i -t
+history
+python3 -m http.server
+git push origin
+git commit -m"bootcamp_day_2"
+git config --global user.name "jesse"
+git config --global user.email "jesserocks83@gmail.com"
+git status
+git add find_ip.sh
+sudo bash find_ip.sh
+bash find_ip.sh
+sudo arp-scan --localnet
+arp-scan --localnet
+bash find
+sudo arp-scan --localnet >ip.txt
+sudo nmap -n -PN -sT -sU -p- 192.168.1.218
+sudo nmap 192.168.1.218
+sudo arp-scan --localnet >hungshouse.txt
+./a.out
+g++ test.cpp
+python3 test.py
+python test.py
+sudo apt-get install python3
+touch test.py
+touch test
+cat README.md
+ls
+sudo apt-get update
+a.out
+g++
+cat test.txt
+---------------------------------------------------------------------------------------
+WEB SERVER COMMAND python3 -m http.server 8000
+docker run -i -d -p 8081:80 jesseserver python3 -m http.server 80 TO RUN 1
+----------------------------------------------------------------------------------------
